@@ -1,0 +1,44 @@
+.head{
+    margin-top: -130px;
+    margin-left: 30px;
+}
+.back{
+    height: 740px;
+}
+.recipess{
+    margin-left: 30px;
+}
+.round{
+    margin-top: 310px;
+   margin-left: 45px;
+    display: flex;
+    
+}
+.rounds{
+    display: flex;
+   
+}
+.round h1{
+    color: cyan;
+}
+.iconcollection{
+
+   
+    justify-content: space-evenly;
+    align-items: center;
+}
+.icon{
+    margin: 70px 25px;
+   /* border: solid;*/
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: -10px;
+}
+.brands{
+    color: black;
+    font-size: 1.8rem;
+}
